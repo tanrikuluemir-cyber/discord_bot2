@@ -1,0 +1,1 @@
+Ce bot peux vous aidez a choisir des choses des jeux au hasard si vous savez pas a quels jeux vous voulez jouer et plein d'autre chose qui peut vous aider. Vous pouvez aussi calculer des nombres comme une calculatrice plus besoin de sa casser la tete a faire des calculs mentalement demander juste au bot(addition,soustraction,division,fraction) 
